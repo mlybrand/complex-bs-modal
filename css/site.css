@@ -11,6 +11,10 @@
     font-size: 1.79em;
 }
 
+ul.navbar-nav.navbar-right {
+    margin-right: 0;
+}
+
 ul.navbar-nav li {
     border-left: solid thin #9d9d9d;
     margin: 0.36em 1.43em 0.36em 0;
@@ -20,6 +24,10 @@ ul.navbar-nav li.icon a {
     font-size: 1.75em;
     padding-left: 0.8em;
     padding-right: 0;
+}
+
+ul.navbar-nav li.glyphed {
+    margin-right: 0;
 }
 
 ul.navbar-nav li.glyphed a {
